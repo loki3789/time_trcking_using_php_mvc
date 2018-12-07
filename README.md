@@ -1,1 +1,2 @@
-# time_trcking_using_php_mvc
+time tracking application done using php.
+a codeIgniter php mvc framework is used in the project.
